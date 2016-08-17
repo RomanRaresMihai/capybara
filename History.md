@@ -1,3 +1,6 @@
+# Version 3.0.0
+Release date: unreleased
+
 #Version 2.12.0
 Release date: 2017-01-22
 
